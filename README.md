@@ -15,4 +15,4 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 3. O método **InstalarAplicativo** deve ser sobrescrito na classe Nokia e iPhone, pois ambos possuem diferentes maneiras de instalar um aplicativo.
 
 ## Solução
-A solução faz uso de conceitos fundamentais de orientação a objetos, como herança, abstração, e polimorfismo. A classe Smartphone fornece uma base genérica, e as classes Nokia e Iphone especializam o comportamento específico de cada modelo, permitindo a extensão e a flexibilidade do código.
+A solução  utilizada faz uso de conceitos fundamentais de orientação a objetos, como herança, abstração, e polimorfismo. A classe Smartphone fornece uma base genérica, e as classes Nokia e Iphone especializam o comportamento específico de cada modelo, permitindo a extensão e a flexibilidade do código.
